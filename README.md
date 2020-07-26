@@ -1,18 +1,24 @@
-<img align="right" width="400" height="400" src="https://mwpacheco.pythonanywhere.com/static/favicon.png">
+<!-- Your title -->
+## Hola, soy desarrollador.
 
-### Hi there 👋
-
-<!--
-**matiaspacheco/matiaspacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
 -->
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/matiaspacheco)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/matiaswalterpacheco/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:matiaswalterpacheco@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mwpacheco@outlook.es)
+
+&nbsp;
+
+<!-- Talking about you -->
+**Acerca de mi:**
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+:heart: Dibujar | :black_heart: Hip-Hop | :blue_heart: Programar;
+- :earth_americas: Soy de Argentina; 
+- Soy Desarrollador de software, diseño, construyo y a veces rescato aplicaciones.;
+- Actualmente estoy aprendiendo Python | Django
