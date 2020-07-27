@@ -1,5 +1,6 @@
 <!-- Your title -->
-## Hola, soy desarrollador.
+## Hola, soy Matias Pacheco.
+Wehaa Portal Soft
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -17,6 +18,6 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 :heart: Dibujar | :black_heart: Hip-Hop | :blue_heart: Programar;
-- :earth_americas: Soy de Argentina; 
-- Soy Desarrollador de software, diseño, construyo y a veces rescato aplicaciones.;
-- Actualmente estoy aprendiendo Python | Django
+- Soy de Argentina; 
+- Soy Desarrollador de software, diseño, construyo y a veces rescato aplicaciones | Full-Stack ;
+- Actualmente estoy aprendiendo Python | Django;
