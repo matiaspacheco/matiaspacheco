@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-:heart: Dibujar | :black_heart: Hip-Hop | :blue_heart: Programar;
+:heart: Dibujar | :black_heart: Música | :blue_heart: Programar;
 - Soy de Argentina; 
-- Soy Desarrollador de software, diseño, construyo y a veces rescato aplicaciones | Full-Stack ;
-- Actualmente estoy aprendiendo Python | Django;
+- Soy Desarrollador de software | Web;
+- Actualmente uso Python, PyQt5 | Django, Bootstrap;
