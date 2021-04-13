@@ -21,3 +21,6 @@ You can use the website to generate badges: https://shields.io/
 - Soy de Argentina; 
 - Soy Desarrollador de software | Web;
 - Actualmente uso Python, PyQt5 | Django, Bootstrap;
+- Aprendiendo C++
+
+![Matias GitHub stats](https://github-readme-stats.vercel.app/api?username=matiaspacheco&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiaspacheco&layout=compact&theme=buefy)](https://github.com/matiaspacheco/github-readme-stats)
